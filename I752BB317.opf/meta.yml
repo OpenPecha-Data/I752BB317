@@ -1,0 +1,18 @@
+id: I752BB317
+default_language: bo
+source: https://www.lotsawahouse.org
+initial_creation_type: web_scrap
+imported: 2023-01-04 11:28:11.179155
+last_modified: 2023-01-04 11:28:11.179167
+source_metadata:
+  collections:
+  - Alak Zenkar Rinpoche
+  - Works of Tibetan Masters
+bases:
+  '5974':
+    title: Biography of Patrul Rinpoche
+    base_file: 5974.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
